@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Youtube-clone1/static/css/main.4b10dd15.chunk.css",
+    "main.js": "/Youtube-clone1/static/js/main.1f8125fe.chunk.js",
+    "main.js.map": "/Youtube-clone1/static/js/main.1f8125fe.chunk.js.map",
+    "runtime-main.js": "/Youtube-clone1/static/js/runtime-main.db8d459d.js",
+    "runtime-main.js.map": "/Youtube-clone1/static/js/runtime-main.db8d459d.js.map",
+    "static/js/2.af94c9cc.chunk.js": "/Youtube-clone1/static/js/2.af94c9cc.chunk.js",
+    "static/js/2.af94c9cc.chunk.js.map": "/Youtube-clone1/static/js/2.af94c9cc.chunk.js.map",
+    "static/js/3.aff368b6.chunk.js": "/Youtube-clone1/static/js/3.aff368b6.chunk.js",
+    "static/js/3.aff368b6.chunk.js.map": "/Youtube-clone1/static/js/3.aff368b6.chunk.js.map",
+    "index.html": "/Youtube-clone1/index.html",
+    "static/css/main.4b10dd15.chunk.css.map": "/Youtube-clone1/static/css/main.4b10dd15.chunk.css.map",
+    "static/js/2.af94c9cc.chunk.js.LICENSE.txt": "/Youtube-clone1/static/js/2.af94c9cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8d459d.js",
+    "static/js/2.af94c9cc.chunk.js",
+    "static/css/main.4b10dd15.chunk.css",
+    "static/js/main.1f8125fe.chunk.js"
+  ]
+}
